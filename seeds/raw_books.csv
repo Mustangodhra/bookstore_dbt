@@ -1,0 +1,11 @@
+book_id,title,author,genre,price_cents,in_stock
+B001,The Pragmatic Programmer,David Thomas,Technology,3499,true
+B002,Clean Code,Robert C. Martin,Technology,2999,true
+B003,Atomic Habits,James Clear,Self-Help,2499,true
+B004,Sapiens,Yuval Noah Harari,History,1999,true
+B005,The Alchemist,Paulo Coelho,Fiction,1499,true
+B006,Deep Work,Cal Newport,Self-Help,2299,true
+B007,1984,George Orwell,Fiction,999,true
+B008,Thinking Fast and Slow,Daniel Kahneman,Psychology,3199,false
+B009,Bad Data Book,-150,Self-Help,-150,true
+B010,The Lean Startup,Eric Ries,Business,2799,true
